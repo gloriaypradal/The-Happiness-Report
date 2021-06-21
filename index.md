@@ -7,7 +7,7 @@ What are the factors that make us happy as a country?
 
 ### Code Details and Results
 
-[repository settings](https://github.com/gloriaypradal/The-Happiness-Report/settings/pages)
+[Repository Details, Files and Codes](https://github.com/gloriaypradal/The-Happiness-Report/settings/pages)
 
 
 ### References
