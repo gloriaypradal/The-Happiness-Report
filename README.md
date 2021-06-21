@@ -1,4 +1,4 @@
-# The Happyness Report
+# The Happiness Report
 World Happiness Report and Corruption Perception
 The world happiness report is a document that rank the countries by its Happiness Index
 The goal of this project was to determine how are we becoming happier, what can we improve to become happier
